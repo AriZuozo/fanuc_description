@@ -1,4 +1,4 @@
-#fanuc_description
+# fanuc_description
 
 1) Open a new shell in catkin_ws
 
